@@ -1,4 +1,4 @@
 # estrutura-de-dados
 segundo semestre
 
-Problemas envolvendo Pilhas, Fila da diciplina de estrutura de dados do 2 semestre de computação do Professor Nécio
+Problemas envolvendo Pilhas, Fila da disciplina de estrutura de computação do Professor Nécio
